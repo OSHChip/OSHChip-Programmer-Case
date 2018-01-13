@@ -9,4 +9,4 @@ I got best results printing with a .2mm layer height. I used a Printrbot Simple 
 The top-case half is designed so that when printing with a .3mm bottom layer you can switch filament colors between layers to get the text to stand out more. You can do this in Cura using the "Pause at Z height" set to .4mm. 
 
 ![photo 1](https://raw.githubusercontent.com/OSHChip/OSHChip-Programmer-Case/master/images/IMG_1735.jpg)
-![photo 2](https://raw.githubusercontent.com/OSHChip/OSHChip-Programmer-Case/master/images/IMG_1739.jpg)
+![photo 2](https://raw.githubusercontent.com/OSHChip/OSHChip-Programmer-Case/master/images/IMG_1739.JPG)
